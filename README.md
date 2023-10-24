@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-This is a repository to explore how to create a secure and effective authentication system using three different strategies: local, JWT access tokens, and refresh tokens with nest.js
+This is a repository to explore how to create a secure and effective authentication system with JWT access tokens
 
 ## Technologies
 - Nest.js
