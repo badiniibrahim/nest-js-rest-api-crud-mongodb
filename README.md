@@ -23,40 +23,36 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+This is a repository to explore how to create a secure and effective authentication system using three different strategies: local, JWT access tokens, and refresh tokens with nest.js
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Technologies
+- Nest.js
+- Typescript
+- MongoDb
+- Prisma
+- Nodemailer
+- Mailhog
+  
+## 🔐 Setup .env file
+SECRET_KEY
 
+DATABASE_URL
+
+OTP_CODE
+
+## :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/badiniibrahim/nest-js-rest-api-postgresql.git
+```
 ## Installation
 
 ```bash
 $ yarn install
 ```
 
-## Running the app
-
-```bash
-# development
-$ yarn run start
-
-# watch mode
-$ yarn run start:dev
-
-# production mode
-$ yarn run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ yarn run test
-
-# e2e tests
-$ yarn run test:e2e
-
-# test coverage
-$ yarn run test:cov
-```
 
 ## Support
 
