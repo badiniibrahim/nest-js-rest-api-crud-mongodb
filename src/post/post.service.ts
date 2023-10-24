@@ -3,9 +3,9 @@ import {
   Injectable,
   NotFoundException,
 } from '@nestjs/common';
-import { CreatePostDto } from 'src/dto/post/createPosrDeto';
+import { CreatePostDto } from 'src/dto/post/createPost.dto';
 import { PrismaService } from '../prisma/prisma.service';
-import { UpdatePostDto } from 'src/dto/post/updatePostDto';
+import { UpdatePostDto } from 'src/dto/post/updatePost.dto';
 
 @Injectable()
 export class PostService {
