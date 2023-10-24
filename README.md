@@ -22,6 +22,22 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+  <h1 align="center">
+  SAWADOGO Badini Ibrahim
+</h1>
+
+[![GitHub badiniibrahim](https://img.shields.io/github/followers/badiniibrahim?label=follow&style=social)](https://github.com/badiniibrahim)
+
+[![Gmail Badge](https://img.shields.io/badge/-sawadogo.badiniibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sawadogo.badiniibrahim@gmail.com)](mailto:sawadogo.badiniibrahim@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
+
+## About this Repository
+![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/nest-js-rest-api-crud-mongodb)
+![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/nest-js-rest-api-crud-mongodb)
+![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/nest-js-rest-api-crud-mongodb)
+![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/nest-js-rest-api-crud-mongodb)
+
 ## Description
 This is a repository to explore how to create a secure and effective authentication system with JWT access tokens
 
