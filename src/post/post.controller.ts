@@ -11,11 +11,13 @@ import {
 } from '@nestjs/common';
 import { PostService } from './post.service';
 import { AuthGuard } from '@nestjs/passport';
-import { CreatePostDto } from 'src/dto/post/createPosrDeto';
+import { CreatePostDto } from 'src/dto/post/createPost.dto';
 import { Request } from 'express';
-import { UpdatePostDto } from 'src/dto/post/updatePostDto';
-
-@Controller('post')
+import { UpdatePostDto } from 'src/dto/post/updatePost.dto';
+import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
+@ApiBearerAuth()
+@ApiTags('Posts')
+@Controller('posts')
 export class PostController {
   constructor(private readonly postService: PostService) {}
 
