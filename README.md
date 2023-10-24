@@ -45,14 +45,19 @@ OTP_CODE
 Clone the project
 
 ```bash
-  git clone https://github.com/badiniibrahim/nest-js-rest-api-postgresql.git
+  https://github.com/badiniibrahim/nest-js-rest-api-crud-mongodb.git
 ```
 ## Installation
 
 ```bash
 $ yarn install
 ```
-
+## Doc
+To view the documentation, navigate to your navigation page via this link below
+```bash
+  http://localhost:3000/api
+```
+![alt text](1.png)
 
 ## Support
 
